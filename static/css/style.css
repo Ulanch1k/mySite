@@ -1,0 +1,48 @@
+a {
+    text-decoration: none;
+}
+.user_data{
+    width: 360px;
+}
+.reg {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.username_name {
+    text-decoration: none;
+    color: aliceblue;
+}
+.username_img {
+    border-radius: 50%;
+    width: 40px; 
+    height: 40px;
+}
+.table_films {
+    min-height: 450px; 
+    border-bottom: 1px #999 dotted; 
+    margin-bottom: 10px
+}
+.td_films {
+    min-height: 200px;
+}
+.films_info {
+    border: none
+}
+.all {
+    text-decoration: none;
+}
+.span_name {
+    color: #777
+}
+.peace_first {
+    padding-left: 50px;
+}
+.main{
+    border: none
+}
+.user_name {
+    text-decoration: none; color: aliceblue;
+}
+.greenbook {
+    width: 380px;
+}
